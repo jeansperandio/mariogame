@@ -23,9 +23,9 @@
 
 .bala-game {
     position: absolute;
-    bottom: 70px;
-    width: 180px;
-    animation: bala-animation 5.5s infinite linear;
+    bottom: 10px;
+    width: 80px;
+    animation: bala-animation 1s infinite linear;
 }
 
 /*
